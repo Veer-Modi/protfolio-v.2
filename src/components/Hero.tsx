@@ -1,9 +1,9 @@
 "use client";
 
-import { motion } from "framer-motion";
+import { motion, Variants } from "framer-motion";
 
 export function Hero() {
-    const container = {
+    const container: Variants = {
         hidden: { opacity: 0 },
         show: {
             opacity: 1,
@@ -13,7 +13,7 @@ export function Hero() {
         },
     };
 
-    const item = {
+    const item: Variants = {
         hidden: { opacity: 0, y: 30 },
         show: { opacity: 1, y: 0, transition: { duration: 0.8, ease: "easeOut" } },
     };
@@ -46,6 +46,22 @@ export function Hero() {
                 >
                     Aspiring Full Stack Developer | UI/UX Designer
                 </motion.p>
+            </motion.div>
+
+            <motion.div
+                className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2"
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                transition={{ delay: 1.5, duration: 1 }}
+            >
+                <span className="text-xs font-mono text-gray-500 uppercase tracking-widest">Scroll</span>
+                <motion.div
+                    animate={{ y: [0, 8, 0] }}
+                    transition={{ repeat: Infinity, duration: 2, ease: "easeInOut" }}
+                    className="w-4 h-6 rounded-full border border-gray-600 flex justify-center p-1"
+                >
+                    <div className="w-1 h-1 bg-gray-400 rounded-full" />
+                </motion.div>
             </motion.div>
         </section>
     );
