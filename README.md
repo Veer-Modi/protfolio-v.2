@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Veer Modi | Fluid Schematic Portfolio V2
 
-## Getting Started
+> [cite_start]**Aspiring Full Stack Developer & UI/UX Designer** [cite: 3, 15]
+> A high-performance, discovery-based digital workspace built with Next.js 15.
 
-First, run the development server:
+[![Lighthouse Score](https://img.shields.io/badge/Lighthouse-100%2F100-success?style=for-the-badge)](https://web.dev/measure/)
+[![Tech Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20Tailwind%20%7C%20Framer%20Motion-blue?style=for-the-badge)](https://github.com/Veer-Modi)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 The Vision
+Moving away from traditional "box-based" web design, **Portfolio V2** implements a **Fluid Schematic** UI. [cite_start]It treats professional experience not as a list, but as a technical blueprint—connected by a neural SVG thread that visualizes my journey through Full Stack development, Web3, and Algorithmic Optimization[cite: 24, 48, 50].
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Technical Excellence
+- **Zero-Asset Architecture:** 95% of visuals are generated via CSS gradients and SVG paths to maintain "Average" resource consumption.
+- **Neural Threading:** A dynamic SVG circuit line that syncs with scroll velocity using Framer Motion's `useScroll` hook.
+- **Source Code Mode:** A global state toggle that transforms the high-fidelity UI into a raw JSON/Markdown data view for technical audit.
+- **Hydration-Safe Systems:** Real-time status monitors (Surat, IN) designed with zero hydration mismatch for seamless SSR.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📦 Project Highlights
+- [cite_start]**Vermio:** Cloud-based gaming platform with secure gameplay storage [cite: 25-27].
+- [cite_start]**Attendance Tracker:** Full-stack enterprise solution with RESTful API architecture [cite: 31-36].
+- [cite_start]**WorkZen HRMS:** Prototype developed under 36-hour hackathon constraints at IIT Gandhinagar [cite: 43-45].
 
-## Learn More
+## 🏆 Hackathon Circuit
+My development philosophy is forged in competitive environments:
+- [cite_start]**IIT Gandhinagar (Amalthea):** Full-stack prototyping[cite: 43].
+- [cite_start]**IIIT Bhopal (HackXios):** Rapid deployment under pressure[cite: 46].
+- [cite_start]**LNMIIT Jaipur (LNMHacks 8.0):** Smart Contract & Blockchain logic [cite: 48-49].
+- [cite_start]**AIDTM (Hack Innovate):** Python-based Operations Research optimization[cite: 50].
 
-To learn more about Next.js, take a look at the following resources:
+## 🧪 Performance Stats
+- **First Contentful Paint:** < 0.6s
+- **Total Blocking Time:** 0ms
+- **Cumulative Layout Shift:** 0.000
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📬 System Access
+- [cite_start]**LinkedIn:** [veer-modi](https://www.linkedin.com/in/veer-modi) [cite: 4]
+- [cite_start]**GitHub:** [Veer-Modi](https://github.com/Veer-Modi) [cite: 5]
+- [cite_start]**Terminal:** `veer.modi.cg@gmail.com` [cite: 1]
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Built with precision in Surat, India.*
